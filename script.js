@@ -24,7 +24,7 @@ const tim = () => {
                       setTimeout(() => {
                         document.getElementById("print").innerText =
                           "Happy Independence Day";
-                      });
+                      },1000);
                     }, 1000);
                   }, 1000);
                 }, 1000);
